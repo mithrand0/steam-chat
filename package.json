@@ -18,7 +18,7 @@
   },
   "devDependencies": {
     "@sindresorhus/tsconfig": "^2.0.0",
-    "electron": "^15.0.0",
+    "electron": "^15.1.1",
     "electron-builder": "^22.11.7",
     "husky": "^7.0.2",
     "prettier": "^2.3.2",
